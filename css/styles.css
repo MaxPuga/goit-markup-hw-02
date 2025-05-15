@@ -2,6 +2,10 @@ body {
   color: #434455;
 }
 
+a {
+  text-decoration: none;
+}
+
 /* ===== Header ===== */
 
 .logo-header {
@@ -84,6 +88,7 @@ h1 {
   color: #ffffff;
   font-family: "Roboto", sans-serif;
   border-radius: 4px;
+  border: none;
   padding: 16px 32px;
   font-size: 16px;
   cursor: pointer;
